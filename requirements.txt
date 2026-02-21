@@ -1,0 +1,6 @@
+speechrecognition
+pyaudio
+groq
+python-dotenv
+elevenlabs
+pygame
