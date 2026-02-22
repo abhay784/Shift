@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+pyautogui
+SpeechRecognition
+sounddevice
+numpy
+pyobjc-framework-Vision
